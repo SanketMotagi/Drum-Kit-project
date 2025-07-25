@@ -8,7 +8,13 @@ h1 {
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
+}
 
+.instruction {
+  color: #E7ED8C;
+  font-family: "Arvo";
+  font-size: 1.5rem;
+  text-align: center;
 }
 
 footer {
@@ -16,6 +22,10 @@ footer {
   font-family: sans-serif;
 }
 
+.set {
+  padding: 0%;
+  margin-top: 0%;
+}
 .w {
   background-image: url("images/tom1.png");
 }
